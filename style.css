@@ -87,7 +87,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('/img/fondo.png');
+    background-image: url('img/fondo.png');
     background-size: cover;     /* Cubre toda la pantalla */
     background-position: center; /* Centrado */
     background-repeat: no-repeat; /* No se repite */
@@ -142,7 +142,7 @@ body {
 .concepto {
     padding: 80px 20px;
     text-align: center;
-    background-image:url('/img/fondoconcepto.png');
+    background-image:url('img/fondoconcepto.png');
     background-size: cover;
     background-position: center;
     font-family: "Baloo 2", sans-serif;
@@ -192,7 +192,7 @@ body {
     text-align: center;
     max-width: cover;
     margin: 0 auto;
-    background-image: url('/img/fondoloco.png');
+    background-image: url('img/fondoloco.png');
     background-size: cover;     /* Cubre toda la pantalla */
     background-position: center; /* Centrado */
     background-repeat: no-repeat; /* No se repite */
@@ -215,7 +215,7 @@ body {
 }
 
 .sobre-nosotros {
-    background-image: url('/img/fondo10.png');
+    background-image: url('img/fondo10.png');
     background-size: cover;     /* Cubre toda la pantalla */
     background-position: center; /* Centrado */
     background-repeat: no-repeat; /* No se repite */
